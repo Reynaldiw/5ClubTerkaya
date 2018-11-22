@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">5 Club Terkaya</string>
+
+    <string-array name="club_name">
+        <item>Manchester United</item>
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Bayern Muenchen</item>
+        <item>Manchester City</item>
+    </string-array>
+
+    <string-array name="gambarClub">
+        <item>@drawable/mu</item>
+        <item>@drawable/madrid</item>
+        <item>@drawable/barcelona</item>
+        <item>@drawable/bayern</item>
+        <item>@drawable/city</item>
+    </string-array>
+
+    <string-array name="gambarClubDetail">
+        <item>@drawable/united</item>
+        <item>@drawable/realmadrid</item>
+        <item>@drawable/fcb</item>
+        <item>@drawable/bayernmunchen</item>
+        <item>@drawable/mcity</item>
+    </string-array>
+
+    <string-array name="club_detail">
+        <item>Manchester United tetap berada di puncak klub terkaya dunia. Cuma juara Liga Europa memang membuat penurunan pendapatan Manchester United, tapi tidak terlalu buruk, sehingga memastikan posisi pertama mereka selama dua tahun berturut-turut.Yang cukup mengherankan, pendapatan komersial mereka justru turun dari 364 juta euro menjadi 325,2 juta euro atau turun 38,8 juta euro. Demikian pula, pendapatan tiket yang turun 11.8 juta euro menjadi 125.2 juta euro. Namun pendapatan siaran mereka meningkat dari 188 juta euro menjadi 225.9 juta euro.Secara total, Manchester United melihat penurunan 1,8 persen (12,7 juta euro) pendapatan. Kembali ke Liga Champions diprediksi akan buat The Red Devils bakal alami peningkatan pendapatan.Pendapatan 2016: € 689 jutaPendapatan 2017: € 676.3 jutaSponsor di Jersey: ChevroletPemasok Kit: AdidasRata Rata Kehadiran: 75,305</item>
+        <item>Real Madrid sukses merebut posisi kedua dari rivalnya, Barca dalam edisi ini. Kesuksesan pertahankan gelar Liga Champions yang pertama untuk klub sejak 1958, telah memainkan peran besar dalam peningkatan pendapatan Madrid.Pendapatan komersial El Real tumbuh dari 38 juta euro menjadi 301,4 juta euro. Pendapatan siaran dan tiket mengalami kenaikan kecil sekitar delapan juta euro masing-masing (237 juta euro dan 136 juta euro).Secara total, Real Madrid alami peningkatan drastis sebesar 8,7% (54,5 juta euro) dalam pendapatannya. Jika Los Blancos memiliki harapan untuk menantang posisi teratas tahun depan, jelas akan ada pundi-pundi uang lagi yang datang.Pendapatan 2016: € 620.1 jutaPendapatan 2017: € 674.6 jutaSponsor di Jersey: EmiratesPemasok Kit: AdidasRata Rata Kehadiran: 69,426</item>
+        <item>Barcelona meraih pendapatan komersial yang sama, yakni 296 juta euro untuk Blaugrana. Bergantinya hak siar La Liga membuat keuntungan mereka sedikit naik dari 203 juta euro menjadi 214,9 euro.Secara keseluruhan, Barcelona mengalami peningkatan pendapatan sebesar 5 persen atau 28,1 juta euro. Setelah menandatangani kontrak baru dengan Lionel Messi, Blaugrana memastikan kesuksesan di lapangan, dan dengan kesepakatan bersama Rakuten.Kesepakatan baru itu diprediksi akan buat Barcelona mengalami peningkatan pendapatan. Namun nilainya masih belum terlalu drastis.Pendapatan 2016: € 620.2 jutaPendapatan 2017: € 648.3 jutaSponsor di Jersey: Qatar AirwaysPemasok Kit: NikeRata Rata Kehadiran: 78,678</item>
+        <item>Bayern Muenchen identik dengan kesuksesan, dan telah berhasil 10 tahun berturut-turut masuk lima besar klub terkaya. Namun, dari semua klub Top 6, Bayern adalah satu dari dua tim yang alami penurunan pendapatan pada 2017.The Bavarian memiliki pendapatan komersial tertinggi dari klub manapun secara global, yakni 343,3 juta euro, sebagian berkat kesepakatan jangka panjang sehingga tidak ada kenaikan dari 2016. Pendapatan dari tiket turun empat juta euro, sementara nilai dari siaran hampir sama.Secara total, Bayern Muenchen mengalami penurunan kecil sebesar 0,7 persen (4,2 juta euro) dalam pendapatannya. Kurangnya pendapatan siaran yang sebanding akan merugikan raksasa Jerman dalam jangka panjang.Pendapatan 2016: € 592 jutaPendapatan 2017: € 587.8 jutaSponsor Jersey: Deutsche TelecomPemasok Kit: AdidasKehadiran Rata-Rata penonton: 75,024</item>
+        <item>Manchester City mendapatkan kenaikan pendapatan dari posisi keenam tahun 2013, ke posisi kelima pada 2017. Meskipun kehadiran rata-rata yang relatif tinggi di Etihad Stadium, pendapatan mereka dari tiket tetap kurang, yakni sebesar 60,4 juta euro, paling sedikit dari 10 besar klub terkaya 2018.Pendapatan komersial mereka juga turun dari 239 juta euro menjadi 230.5 juta euro. Namun pendapatan siaran meroket tajam dari 20,8 juta euro menjadi 236,8 juta euro yang sebagian besar karena kesepakatan penyiaran baru Liga Inggris.Secara keseluruhan, Manchester City melihat peningkatan kecil sebesar 0,5 persen (2,8 juta euro) untuk pendapatan. Namun, dengan Pep Guardiola yang memimpin, klub tersebut mendekati kesuksesan terbaik dan dengan kesepakatan komersial bersama Gatorade serta Amazon, City siap mengalami peningkatan pendapatan tahun-tahun depan.Pendapatan 2016: € 524.9 jutaPendapatan 2017: € 527.7 jutaSpoNsor jersey: Etihad AirwaysPemasok Kit: NikeKehadiran Rata-Rata penonton: 54,019</item>
+    </string-array>
+</resources>
